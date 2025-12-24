@@ -1,6 +1,8 @@
 Merhaba,Ben Ceylin Kavlak 👋
 ---
+
 🚀Mobil, web ve veri bilimi alanlarında C#, Python ve Kotlin teknolojilerini kullanarak uçtan uca çözümler üreten çok yönlü bir yazılım geliştiriciyim.
+
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ceylin-kavlak-11530426a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ceylinkvlk@gmail.com)
