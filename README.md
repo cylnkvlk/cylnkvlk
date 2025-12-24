@@ -1,7 +1,4 @@
 Merhaba,Ben Ceylin Kavlak 👋
-
-Yazılım geliştirme ve yeni teknolojiler öğrenme konusunda tutkulu biriyim.
-
 ---
 
 ### 🌐 Sosyal Medya
