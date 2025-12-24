@@ -1,6 +1,7 @@
 Merhaba,Ben Ceylin Kavlak 👋
 ---
 🚀 Hakkımda
+
 🌱 Mobil, web ve veri bilimi alanlarında C#, Python ve Kotlin teknolojilerini kullanarak uçtan uca çözümler üreten çok yönlü bir yazılım geliştiriciyim.
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ceylin-kavlak-11530426a/)
@@ -28,6 +29,6 @@ Merhaba,Ben Ceylin Kavlak 👋
 ### 📊 GitHub İstatistikleri
 
 <div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=dark&locale=tr" height="150" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=dark&locale=tr" height="150" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=cylnkvlk&show_icons=true&theme=dark&locale=tr" height="150" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cylnkvlk&layout=compact&theme=dark&locale=tr" height="150" alt="Top Languages" />
 </div>
